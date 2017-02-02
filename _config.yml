@@ -14,12 +14,12 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 멋진 블로그 #영어 한국어
+      title: Ivory Tower - Academia  #영어 한국어
 
 description: Stylish Jekyll Theme
 
 author:
-  name: nachacham
+  name: changu_k
   email: nachacham@gmail.com
   github: changukang
   twitter: nachacham #facebook 아이디
