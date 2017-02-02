@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: English? #영어 한국어
+      title: 멋진 블로그 #영어 한국어
 
 description: Stylish Jekyll Theme
 
@@ -24,9 +24,7 @@ author:
   github: changukang
   twitter: nachacham
   facebook: nachacham
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: This is the blog full of academia and interests for me. Topics can be anything that can be related to my field.
   bio_k: 멋진 블로그야
   # email_md5: 726351295ec82e145928582f595aa3aa
 
