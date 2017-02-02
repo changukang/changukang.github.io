@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Academic
+      title: Academic Blog : 학술 블로그
 
 description: Stylish Jekyll Theme
 
@@ -23,11 +23,12 @@ author:
   email: nachacham@gmail.com
   github: changukang
   twitter: dbtek
+  facebook: nachacham
   pinterest: asd123
   linkedin: asd123
   bio: Your stylish, minimalist theme!
   bio_k: 멋진 블로그야
-  email_md5: 726351295ec82e145928582f595aa3aa
+  # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
