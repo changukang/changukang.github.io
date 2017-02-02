@@ -13,8 +13,8 @@ defaults:
   -
     scope:
       path: "" # empty string for all files
-    values:
-      title: Academic Blog : 학술 블로그
+      values:
+      title: 학술 블로그 #영어 한국어
 
 description: Stylish Jekyll Theme
 
