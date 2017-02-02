@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuration
-categories: [general, setup, temp]
+categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 ---
