@@ -54,6 +54,7 @@ article .share .btn {
 #contact-list li:hover .fa-twitter,
 article .share .twitter:hover {
 	color: #00ACEE;
+
 	border-color: #00ACEE;
 }
 #contact-list li:hover .fa-linkedin {
@@ -188,4 +189,3 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
-

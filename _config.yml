@@ -27,7 +27,6 @@ author:
   bio: This is the blog full of academia and interests for me. Topics can be anything that can be related to my field. More info on me can be found at "About" page.
   bio_k: 본 블로그는 학술 및 필자의 개인 흥미로워 하는 내용을 담고 있습니다. 주제는 따라서 필자와 관련된 모든 것이 될 수 있습니다. 필자에 관한 더 자세한 정보는 "About" 페이지에서 확인 가능합니다.
   # email_md5: 726351295ec82e145928582f595aa3aa
-
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
