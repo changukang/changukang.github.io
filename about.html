@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories
+title: About Me
 header: Posts By Category
 group: navigation
 ---
