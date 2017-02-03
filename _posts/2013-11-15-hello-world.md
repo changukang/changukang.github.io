@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-categories: [general, setup, demo, temp]
+categories: [general, setup, temp]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
