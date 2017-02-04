@@ -83,7 +83,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #000000;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -173,7 +173,7 @@ footer {
     border-radius: 4px 0 0 4px;
 }
 
-.badge { background: #F2756A; }
+.badge { background: #000000; }
 
 #nav-menu{
     position: fixed;
