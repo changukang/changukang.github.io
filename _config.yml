@@ -34,7 +34,7 @@ tags_path: tags.html
 about_path: about.html
 
 # set it as url of an image
-sidebar_background_image: http://i.imgur.com/zrtsPrW.png
+#sidebar_background_image: http://i.imgur.com/zrtsPrW.png
 
 BASE_PATH:
 
