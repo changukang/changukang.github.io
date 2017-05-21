@@ -6,7 +6,6 @@ tags: [Python, Sparql, Semantic Web]
 fullview: true
 comments: true
 ---
-# 파이썬으로 SPARQL Endpoint 활용하기 
 
 SPARQL Endpoint는 DBpedia, Wikidata 같은 Triplestore에서 해당 Store에 대한 Sparql 질의를 쉽게 할수 있도록 하는 기능이다. 그 Sparql Endpoint에 접근함으로써 각 Store에 저장된 RDF 데이터를 자신의 원하는 형태로 불러와 활용이 가능하다. SPARQL Endpoint에 접근해 활용하는 것에는 몇 가지 방법이 있다.
 
