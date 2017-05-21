@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 블로그 이름 정하는게 세상에서 제일 어렵다  #영어 한국어
+      title: Study #영어 한국어
 
 description: Stylish Jekyll Theme
 
