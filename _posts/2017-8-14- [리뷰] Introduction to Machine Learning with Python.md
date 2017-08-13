@@ -9,9 +9,9 @@ comments: true
 
 ## [리뷰] Introduction to Machine Learning with Python
 
-![IMLP](IMLP.jpeg)
+![IMLP](/IMLP.jpeg)
 
-![A+](A+.jpg)
+![A+](/A+.jpg)
 
 - 저자: 안드레아스 뮐러, 세라 가이도(Scikit-Learn 핵심개발자), 옮김이: 박해선
 - 출간: 2017.7.01
