@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Machine Learning with Python
+title: 도서 서평: Introduction to Machine Learning with Python()
 categories: [Python]
 tags: [Python]
 fullview: true
@@ -39,4 +39,4 @@ comments: true
 
 이 책이 머신러닝의 모든 것과 state-of-art까지를 다루진 않는 것 같다. 하지만 머신러닝의 기초에서 출발 해 더 높은 단계의 것들을 공부하고 익히기 위한 출발점이 될 수 있다고 생각된다.
 
-이 서평의 필자는 데이터 과학자를 꿈꾸지는 않지만, 컴퓨터과학자라면 전산학 이론의 일부로서 머신러닝이란 기술을 꼭 거쳐야 할 '상식'으로 바라본다. 필자는 앞으로도 머신러닝 알고리즘과 이론적 배경들을 알아갈 것이며, 이 책이 
+이 서평의 필자는 데이터 과학자를 꿈꾸지는 않지만, 컴퓨터과학자라면 전산학 이론의 일부로서 머신러닝이란 기술을 꼭 거쳐야 할 '상식'으로 바라본다. 필자는 앞으로도 머신러닝 알고리즘과 이론적 배경들을 알아갈 것이며, 이 책이 그 시작점이 될 것이라 생각된다.
